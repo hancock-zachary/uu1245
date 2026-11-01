@@ -7,7 +7,9 @@ authors = [
     { name = "hancock-zachary", email = "zwhancock@gmail.com" }
 ]
 requires-python = ">=3.13"
-dependencies = []
+dependencies = [
+    "requests",
+]
 
 [project.scripts]
 uu1245 = "uu1245:main"

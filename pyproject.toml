@@ -8,5 +8,6 @@ authors = [
 ]
 requires-python = ">=3.13"
 dependencies = [
+    "python-dotenv>=1.2.4",
     "requests",
 ]
